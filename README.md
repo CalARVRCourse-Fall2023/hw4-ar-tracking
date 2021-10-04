@@ -84,7 +84,6 @@ Note: This document was written using OpenCV 3.4.7. Some changes may be required
 
 ## Instructions
 
-Instructions for setting up the starter code are available at the google docs file at https://docs.google.com/document/d/1dNhCcNOpxptHb9oq8h5POKWJUk09LzXlRDgXhROqwts
-
+Instructions for setting up the starter code are available at the google docs file at https://docs.google.com/document/d/1g3e9IZeJz_PfN5nqvuF8QO-nIbhromvIVWBmqXaFmF0
 
 
