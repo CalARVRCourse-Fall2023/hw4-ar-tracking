@@ -13,7 +13,7 @@ After you have accepted the assignment, a seperate repo "hw4-ar-tracking-YourGit
 
 ### Deadline
 
-HW4 is due Tuesday 10/XX/2021, 11:59PM. Both your code and video need to be turned in for your submission to be complete; HWs which are turned in after 11:59pm will use one of your slip days -- there are no slip minutes or slip hours.
+HW4 is due Tuesday 10/29/2021, 11:59PM. Both your code and video need to be turned in for your submission to be complete; HWs which are turned in after 11:59pm will use one of your slip days -- there are no slip minutes or slip hours.
 
 ### Academic honesty
 Please do not post code to a public GitHub repository, even after the class is finished, since these HWs will be reused both  in the future.
