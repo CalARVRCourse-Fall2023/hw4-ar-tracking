@@ -9,7 +9,7 @@ In this homework you will be guided through most of the steps to implement AR po
 
 ## Logistics
 
-After you have accepted the assignment, a seperate repo "hw4-ar-tracking-YourGitID" should have been created. You will push your assignment code to this, and this will be used for grading.
+Create a seperate repo "hw4-ar-tracking-YourGitID". You will push your assignment code to this, and this will be used for grading.
 
 ### Deadline
 
