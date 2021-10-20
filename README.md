@@ -27,7 +27,7 @@ This HW is to be completed individually. You are welcome to discuss the various 
 You will make a 2 minute video showing off your implementation. You should verbally describe, at a very high level, the concepts used to implement the image pose tracking and 3d reconstruction. You must also include captions corresponding to the audio. This will be an important component of all your homework assignments and your final project so it is best you get this set up early. 
 
 ### 2. Code
-You will also need to push your project folder to your Github Classroom assignment's repo.
+You will also need to push your project folder to your Github assignment's repo.
 
 
 ## Before You Start:
