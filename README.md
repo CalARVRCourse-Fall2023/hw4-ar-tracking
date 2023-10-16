@@ -56,14 +56,14 @@ First run this command to update anaconda. For some of these commands, you may b
 conda update -n base -c defaults conda
 ```
 
-In the Anaconda prompt, we will first create a new Python environment for HW3. This will use Python version 3.11
+In the Anaconda prompt, we will first create a new Python environment for HW4. This will use Python version 3.11
 ```python
-conda create -n hw3env python=3.11
+conda create -n hw4env python=3.11
 ```
 
 Next we will activate this environment. Note you need to run your HW code in this environment, since this is the one in which we wilol be installing openCV
 ```python
-conda activate hw3env
+conda activate hw4env
 ```
 
 Once activated, we will install OpenCV 4.8.1 in it
@@ -71,7 +71,7 @@ Once activated, we will install OpenCV 4.8.1 in it
 pip install opencv-contrib-python==4.8.1.78
 ```
 
-You can choose to run your program in any of the python IDEs in _Anaconda_ such as _Spyder_, but make sure to select the _hw3Env_ before you launch and install the IDE.
+You can choose to run your program in any of the python IDEs in _Anaconda_ such as _Spyder_, but make sure to select the _hw4Env_ before you launch and install the IDE.
 
 ![inst7.png](/Instructions/inst7.PNG)
 
