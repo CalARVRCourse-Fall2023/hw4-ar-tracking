@@ -9,11 +9,7 @@ In this homework you will be guided through most of the steps to implement AR po
 
 ## Logistics
 
-Create a seperate repo "hw4-ar-tracking-YourGitID". You will push your assignment code to this, and this will be used for grading.
-
-### Deadline
-
-HW4 is due Friday 11/04/2021, 11:59PM. Both your code and video need to be turned in for your submission to be complete; HWs which are turned in after 11:59pm will use one of your slip days -- there are no slip minutes or slip hours.
+Use the repository created when you accept the assignment on GitHub classrooms (this repo). The course staff will look at this repo to evaluate your code for this assignment, so please make sure you submit your code into this repository when you turn in your assignment.
 
 ### Academic honesty
 Please do not post code to a public GitHub repository, even after the class is finished, since these HWs will be reused both  in the future.
@@ -24,13 +20,10 @@ This HW is to be completed individually. You are welcome to discuss the various 
 
 ### 1. Video
 
-You will make a 2 minute video showing off your implementation. You should verbally describe, at a very high level, the concepts used to implement the image pose tracking and 3d reconstruction. You must also include captions corresponding to the audio. This will be an important component of all your homework assignments and your final project so it is best you get this set up early. 
+You will make a 2 minute video showing off your implementation. You should verbally describe, at a very high level, the concepts used to implement the image pose tracking and 3d reconstruction. You must also include captions corresponding to the audio.
 
 ### 2. Code
-You will also need to push your project folder to your your private repo. Add the following github IDs so that we can access these:
-
-bjo3rn o0WeiyuFeng0o
-
+You will also need to push your project folder to your repo (this repo). Add the following github IDs so that we can access these:
 
 ## Before You Start:
 For this homework you will need Python and OpenCV. 
