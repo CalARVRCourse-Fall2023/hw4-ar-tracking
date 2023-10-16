@@ -50,9 +50,15 @@ Choose _Anaconda prompt_ from the start menu, and "Run as Administrator".
 
 ![inst6.png](/Instructions/inst6.PNG)
 
-In the Anaconda prompt, we will first create a new Python environment for HW3. This will use Python version 3.7.9
+First run this command to update anaconda. For some of these commands, you may be asked to confirm the command with y or n
+
 ```python
-conda create -n hw3env python=3.7
+conda update -n base -c defaults conda
+```
+
+In the Anaconda prompt, we will first create a new Python environment for HW3. This will use Python version 3.11
+```python
+conda create -n hw3env python=3.11
 ```
 
 Next we will activate this environment. Note you need to run your HW code in this environment, since this is the one in which we wilol be installing openCV
@@ -60,9 +66,9 @@ Next we will activate this environment. Note you need to run your HW code in thi
 conda activate hw3env
 ```
 
-Once activated, we will install OpenCV 3.4.7 in it
+Once activated, we will install OpenCV 4.8.1 in it
 ```python
-pip install opencv-contrib-python==3.4.7.28
+pip install opencv-contrib-python==4.8.1.78
 ```
 
 You can choose to run your program in any of the python IDEs in _Anaconda_ such as _Spyder_, but make sure to select the _hw3Env_ before you launch and install the IDE.
@@ -73,11 +79,11 @@ You can choose to run your program in any of the python IDEs in _Anaconda_ such 
 To install OpenCV outside of Anaconda, In command prompt/ terminal run:
 
 ```python
-pip install opencv-contrib-python==3.4.7.28
+pip install opencv-contrib-python==4.8.1.78
 ```
 (you may need to add sudo for unix systems). 
 
-Note: This document was written using OpenCV 3.4.7. Some changes may be required for alternate versions of OpenCV.
+Note: This document was written using OpenCV 4.8.1. Some changes may be required for alternate versions of OpenCV.
 
 ## Instructions
 
