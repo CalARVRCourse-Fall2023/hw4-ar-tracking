@@ -34,7 +34,9 @@ OS X and linux machines, python comes pre-installed.
 
 In case you do not have it installed, we recommend installing the Anaconda environment.
 
-Download _Anaconda_ with _Python 3.8_ from here - https://www.anaconda.com/products/individual and install it with default options
+Download _Anaconda_ with _Python 3.11_ from here - https://www.anaconda.com/products/individual and install it with default options.
+
+**If your version of the installer has different version numbers than these screenshots, that is OK.**
 
 ![inst1.png](/Instructions/inst1.PNG)
 ![inst2.png](/Instructions/inst2.PNG)
