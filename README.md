@@ -83,7 +83,7 @@ pip install opencv-contrib-python==4.8.1.78
 ```
 (you may need to add sudo for unix systems). 
 
-Note: This document was written using OpenCV 4.8.1. Some changes may be required for alternate versions of OpenCV.
+Note: This document was written using OpenCV 4.8.1. Some changes may be required for alternate versions of OpenCV. You can probably use any version of OpenCV / Python 3 to do this homework, so if you already have a version installed and configured it's probably fine to use that. If you have limited coding experience, you need to use the Anaconda instructions.
 
 ## Instructions
 
