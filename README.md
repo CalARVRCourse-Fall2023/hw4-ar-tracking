@@ -34,7 +34,7 @@ OS X and linux machines, python comes pre-installed.
 
 In case you do not have it installed, we recommend installing the Anaconda environment.
 
-Download _Anaconda_ with _Python 3.11_ from here - https://www.anaconda.com/products/individual and install it with default options.
+Download _Anaconda_ with _Python 3.10_ from here - https://www.anaconda.com/products/individual and install it with default options.
 
 **If your version of the installer has different version numbers than these screenshots, that is OK.**
 
@@ -56,9 +56,9 @@ First run this command to update anaconda. For some of these commands, you may b
 conda update -n base -c defaults conda
 ```
 
-In the Anaconda prompt, we will first create a new Python environment for HW4. This will use Python version 3.11
+In the Anaconda prompt, we will first create a new Python environment for HW4. This will use Python version 3.10
 ```python
-conda create -n hw4env python=3.11
+conda create -n hw4env python=3.10
 ```
 
 Next we will activate this environment. Note you need to run your HW code in this environment, since this is the one in which we wilol be installing openCV
